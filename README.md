@@ -1,1 +1,1 @@
-# C-Coin-Sorter
+# CMPT128-Coin-Sorter-Project
